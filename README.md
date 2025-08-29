@@ -8,4 +8,4 @@
 ---
 
 ### Connect with me:
-[![LinkedIn](https://www.linkedin.com/in/kalakotakishore/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalakotakishore/)
